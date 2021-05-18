@@ -1,0 +1,15 @@
+{
+  "name": "daily-tweeter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ironcap-crypto/daily-tweeter.git",
+  "author": "ironcap-crypto",
+  "license": "MIT",
+  "scripts": {
+    "tweet": "node tweet.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "twitter": "^1.7.1"
+  }
+}
